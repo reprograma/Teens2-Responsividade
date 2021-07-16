@@ -143,6 +143,11 @@
     color: crimson;
     font-weight: bold;
   }
+
+  footer a{
+    color: white;
+    text-decoration: none;
+  }
   
   .footer-texto-ultimoParagrafo {
     margin-top: 60px;

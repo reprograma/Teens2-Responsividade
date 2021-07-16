@@ -5,7 +5,7 @@ Plano de aula para o dia 17 de julho sobre Responsividade e Layouts Responsivos.
 
 ---
 
-[link para o modelo da página que faremos em aula](https://github.com/jbockhorny);
+[link para o modelo da página que faremos em aula](https://reprograma.github.io/Teens2-Responsividade/index.html);
 
 [link para o dontpad da semana](http://dontpad.com/teens-responsividade-reprograma);
 

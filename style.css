@@ -1,6 +1,6 @@
 * {
-    font-size: 18px;
     margin: 0;
+    font-size: 18px;
   }
   
   body {
@@ -21,7 +21,6 @@
   
   header h3 {
     text-align: center;
-    font-family: "Source Sans Pro", sans-serif;
     font-weight: lighter;
     font-size: 1.4rem;
     color: white;
@@ -95,8 +94,6 @@
   img + p {
     color: grey;
     font-weight: bold;
-    margin-top: -4px;
-    font-size: 1.1rem;
   }
   
   .main-trioConteudos-container {

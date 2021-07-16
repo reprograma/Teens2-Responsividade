@@ -1,7 +1,7 @@
-# Turma teens Reprograma | Front-end básico | 2021 | Responsividade
+# Turma teens Reprograma | Responsividade | Front-end básico | 2021 
 
-> Plano de aula para o dia 17 de julho sobre Responsividade e Layouts Responsivos.
-> <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif"  width="500">
+Plano de aula para o dia 17 de julho sobre Responsividade e Layouts Responsivos.
+<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif"  width="300">
 
 ---
 

@@ -43,7 +43,7 @@ Plano de aula para o dia 17 de julho sobre Responsividade e Layouts Responsivos.
 
 - [x] **Finalizando a aula**
   - [x] Responder dúvidas
-  - [x] Apresentar exercícios da semana, para entregar na sexta (20/11)
+  - [x] Apresentar exercícios da semana, para entregar na sexta (23/07)
  
 ---
 
